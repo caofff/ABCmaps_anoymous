@@ -1,0 +1,2 @@
+^inst/examples/toy-comparison[.](csv|pdf|png)$
+^inst/examples/toy-summary[.]csv$

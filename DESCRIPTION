@@ -1,0 +1,13 @@
+Package: ABCmaps
+Type: Package
+Title: MAPS, PF-IS, and ABC-ASMC Algorithms
+Version: 0.10.0
+Authors@R: person("Anonymous", "Authors", , "anonymous@example.org", role = c("aut", "cre"))
+Description: Implements multifidelity adaptive particle sampling (MAPS),
+    prior-proposal prefiltered importance sampling (PF-IS), and adaptive
+    sequential Monte Carlo ABC (ABC-ASMC). Also provides a pilot diagnostic for
+    estimating low-fidelity false-positive and false-negative rates against
+    high-fidelity decisions.
+License: GPL-3
+Encoding: UTF-8
+NeedsCompilation: no
